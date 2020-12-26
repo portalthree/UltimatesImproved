@@ -1,0 +1,8 @@
+name: UltimatesImproved
+version: 1.0
+author: portalthree
+main: com.portalthree.ultimatesimproved.UltimatesImproved
+api-version: 1.8.8
+commands:
+  mage:
+    description: This is a description
